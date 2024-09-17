@@ -1,0 +1,2 @@
+# Cybersecurity-Projects
+[Live Cyberattack Map](https://portal.azure.com/#blade/AppInsightsExtension/WorkbookViewerBlade/ComponentId/%2Fsubscriptions%2F4745f65b-a81d-432c-b379-420e75bf956e%2Fresourcegroups%2Fhoneypotlab%2Fproviders%2Fmicrosoft.operationalinsights%2Fworkspaces%2Flaw-honeypot1/ConfigurationId/%2Fsubscriptions%2F4745f65b-a81d-432c-b379-420e75bf956e%2Fresourcegroups%2Fhoneypotlab%2Fproviders%2Fmicrosoft.insights%2Fworkbooks%2Ff5e747ae-4922-4230-854b-196859b00046/Type/sentinel/WorkbookTemplateName/Honeypot%20Breach%20Attempt%20Map)
